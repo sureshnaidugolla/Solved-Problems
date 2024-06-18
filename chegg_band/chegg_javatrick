@@ -1,0 +1,12 @@
+import java.util.*;
+Class main{
+    public static void main(String args[]){
+        int a,b,c:
+        Scanner s=new scanner();
+        System.out.println("Welcome to Texas Pick 3!\nLet's do a quick pick and check to see if you win!\n");
+        a=s.nextInt();
+        b=s.nextInt();
+        c=s.nextInt();
+        System.out.println("Your quick pick numbers are %d, %d, %d.",a,b,c);
+    }
+}
